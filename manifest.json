@@ -1,0 +1,22 @@
+{
+    "name": "WHATSAPP",
+    "short_name": "WHATSAPP",
+    "start_url": ".",
+    "background_color": "#d7dbd7",
+    "theme_color": "#00e676",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "images/whats64",
+            "sizes": "64x64",
+            "type": "image/png"
+
+        },
+        {
+            "src": "images/whats512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+ header{
+    background-color: #00bfa5;
+    height: 30px;
+    width: 100%;
+    text-align: center;
+    }
+   a{
+        color: #000000;
+        text-decoration: none;
+        padding-right: 10px;
+        padding-bottom: 10px;
+   }
+  a:hover{
+      color: cadetblue;
+  }
+
+  .container1{
+      display: flex;
+      flex-flow: row wrap;
+    
+  }
+
+ .flex-container1{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    flex-grow: 4;
+}
+
+ .flex-container2{
+     display: flex;
+     flex-flow: row wrap;
+     flex-grow: 8;
+     justify-content: flex-end;
+     align-items: center;
+     flex-grow: 8;
+ }
+
+ .flex-container3{
+     display: flex;
+     flex-flow: row wrap;
+ }
+
+ .flex-container5{
+     flex-flow: column wrap;
+     text-align: center;
+     flex-grow: 4;
+ }
+
+ .flex-container6{
+     flex-flow: column wrap; 
+     flex-grow: 4;
+     text-align: center;
+
+ }
+ .flex-container7{
+    flex-flow: column wrap; 
+    flex-grow: 4;
+    text-align: center;
+
+}
+
+
+ .container2{
+     display: flex;
+     flex-flow: row wrap;
+ }
